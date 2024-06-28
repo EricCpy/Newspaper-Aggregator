@@ -1,7 +1,7 @@
 pandas
 newspaper4k
+lxml[html_clean]
 beautifulsoup4
-scipy
 numpy
 scikit-learn
 matplotlib
@@ -9,3 +9,5 @@ seaborn
 jupyter
 spacy
 wordcloud
+pyspellchecker
+germansentiment
